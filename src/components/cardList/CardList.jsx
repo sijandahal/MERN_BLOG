@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 import Card from '../card/Card';
 import styles from "./cardList.module.css";
+import Pagination from '../pagination/Pagination';
 
 
 const CardList = () => {
@@ -14,6 +15,7 @@ const CardList = () => {
    <Card/>
    <Card/>
    <Card/>
+   <Pagination/>
       </div>
     </div>
     
