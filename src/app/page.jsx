@@ -6,7 +6,8 @@ import CardList from "@/components/cardList/CardList";
 
 import Menu from "@/components/menu/Menu";
 
-const Home = () => {
+const Home = ({searchParams}) => {
+  const page = parseInt (searchParams.page) || 1;
   return <div className={styles.container}>
    <Featured/>
    <CategoryList />

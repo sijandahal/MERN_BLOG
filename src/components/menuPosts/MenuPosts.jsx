@@ -22,7 +22,7 @@ const menuPosts = ({withImage}) => {
                 <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, adipisci.</h3>
                 <div className={styles.details}>
                   <span className={styles.username}>
-                    John Doe
+                    Sijan Dahal
                   </span>
                   <span className={styles.date}> - 10.3.2023 </span>
 
@@ -45,7 +45,7 @@ const menuPosts = ({withImage}) => {
                 <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, adipisci.</h3>
                 <div className={styles.details}>
                   <span className={styles.username}>
-                    John Doe
+                    Sijan Dahal
                   </span>
                   <span className={styles.date}> - 10.3.2023 </span>
 
@@ -70,7 +70,7 @@ const menuPosts = ({withImage}) => {
                 <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, adipisci.</h3>
                 <div className={styles.details}>
                   <span className={styles.username}>
-                    John Doe
+                    Sijan Dahal
                   </span>
                   <span className={styles.date}> - 10.3.2023 </span>
 
@@ -95,7 +95,7 @@ const menuPosts = ({withImage}) => {
                 <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, adipisci.</h3>
                 <div className={styles.details}>
                   <span className={styles.username}>
-                    John Doe
+                    Sijan Dahal
                   </span>
                   <span className={styles.date}> - 10.3.2023 </span>
 
